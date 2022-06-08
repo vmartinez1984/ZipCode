@@ -1,0 +1,17 @@
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.csproj.AssemblyReference.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.GeneratedMSBuildEditorConfig.editorconfig
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.AssemblyInfoInputs.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.AssemblyInfo.cs
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.csproj.CoreCompileInputs.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.deps.json
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.pdb
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.Core.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.Core.pdb
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.csproj.CopyComplete
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/refint/ZipCode.RepositoryEfMySql.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.pdb
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ref/ZipCode.RepositoryEfMySql.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.runtimeconfig.json
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.RepositoryEfMySql/obj/Debug/net6.0/ZipCode.RepositoryEfMySql.genruntimeconfig.cache

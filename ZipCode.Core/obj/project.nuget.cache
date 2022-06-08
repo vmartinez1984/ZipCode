@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+exIRcT6L3L2heOtLo3d2fcLz9vQvTz9oOrNMe2wqvhwC7ZtIqWOWCCw2ZKIUad5HBKVghpyHsbbNM+qZ/xe7Q==",
+  "success": true,
+  "projectFilePath": "/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/ZipCode.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/vmartinez/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/home/vmartinez/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

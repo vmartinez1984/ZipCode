@@ -1,0 +1,12 @@
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/bin/Debug/net6.0/ZipCode.Core.deps.json
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/bin/Debug/net6.0/ZipCode.Core.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/bin/Debug/net6.0/ZipCode.Core.pdb
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.csproj.AssemblyReference.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.GeneratedMSBuildEditorConfig.editorconfig
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.AssemblyInfoInputs.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.AssemblyInfo.cs
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.csproj.CoreCompileInputs.cache
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/refint/ZipCode.Core.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ZipCode.Core.pdb
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.Core/obj/Debug/net6.0/ref/ZipCode.Core.dll

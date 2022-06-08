@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YMaWi9FJgQFCZiNdS8mk6XfO1jzPr4dl8lz9x9sKsT0=",
+  "Source": "ZipCode.Api",
+  "BasePath": "_content/ZipCode.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
