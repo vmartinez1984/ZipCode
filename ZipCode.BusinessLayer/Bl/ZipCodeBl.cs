@@ -56,6 +56,5 @@ namespace ZipCode.BusinessLayer.Bl
 
             return list;
         }
-       
     }//end class
 }

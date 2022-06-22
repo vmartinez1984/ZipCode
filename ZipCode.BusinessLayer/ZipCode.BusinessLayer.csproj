@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ZipCode.Core\ZipCode.Core.csproj" />
-    <ProjectReference Include="..\ZipCode.RepositoryEfMySql\ZipCode.RepositoryEfMySql.csproj" />
+    <!-- <ProjectReference Include="..\ZipCode.RepositoryEfMySql\ZipCode.RepositoryEfMySql.csproj" /> -->
+     <ProjectReference Include="..\ZipCode.RepositoryMongoDb\ZipCode.RepositoryMongoDb.csproj" />
   </ItemGroup>
 </Project>

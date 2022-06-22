@@ -4,25 +4,25 @@ namespace ZipCode.Core.Entities
 {
     public class ZipCodeEntity
     {
-        [Key]
+        //[Key]
         public int Id { get; set; }
 
         [StringLength(5)]
-        public string ZipCode { get; set; }
+        public string? ZipCode { get; set; }
 
         [StringLength(50)]
-        public string State { get; set; }
+        public string? State { get; set; }
 
         [StringLength(250)]
-        public string Municipality { get; set; }
+        public string? Municipality { get; set; }
 
-         [StringLength(50)]
-        public string City { get; set; }
+        [StringLength(50)]
+        public string? City { get; set; }
 
-         [StringLength(50)]
-        public string SettementType { get; set; }
+        [StringLength(50)]
+        public string? SettementType { get; set; }
 
-         [StringLength(100)]
-        public string Settement { get; set; }
+        [StringLength(100)]
+        public string? Settement { get; set; }
     }
 }

@@ -7,11 +7,11 @@
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.BusinessLayer.dll
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.BusinessLayer.pdb
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.Core.dll
-/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.dll
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.Core.pdb
-/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.RepositoryEfMySql.pdb
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/obj/Debug/net6.0/ZipCode.BusinessLayer.csproj.CopyComplete
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/obj/Debug/net6.0/ZipCode.BusinessLayer.dll
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/obj/Debug/net6.0/refint/ZipCode.BusinessLayer.dll
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/obj/Debug/net6.0/ZipCode.BusinessLayer.pdb
 /media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/obj/Debug/net6.0/ref/ZipCode.BusinessLayer.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.RepositoryMongoDb.dll
+/media/vmartinez/X-Files1/Documents/CodigosPostales/ZipCode.BusinessLayer/bin/Debug/net6.0/ZipCode.RepositoryMongoDb.pdb

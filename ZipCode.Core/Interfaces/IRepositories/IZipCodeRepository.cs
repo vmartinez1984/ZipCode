@@ -11,7 +11,6 @@ namespace ZipCode.Core.Interfaces.IRepositories
         Task<List<ZipCodeEntity>> GetZipCodesByMunicipalityAsync(string state, string municipality1);
 
         Task<List<string>> GetMunicipalitiesByStateAsync(string state);
-
         Task<List<string>> GetStatesSync();
     }
 }
